@@ -1,6 +1,5 @@
 import styled from 'styled-components';
 import { shade } from 'polished';
-import Repository from '../Repository';
 
 const Title = styled.h1`
   font-size: 48px;
