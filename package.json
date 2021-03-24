@@ -2,7 +2,7 @@
   "name": "conceito-react",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://christiancesar.github.io/git-repository-search/",
+  "homepage": "https://christiancesar.github.io/",
   "dependencies": {
     "axios": "^0.21.1",
     "polished": "^4.1.1",
