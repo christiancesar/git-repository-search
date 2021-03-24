@@ -7,7 +7,7 @@ import Repository from '../pages/Repository';
 const Routes: React.FC = () => (
   <BrowserRouter>
     <Switch>
-      <Route path="/" exact component={Dashboard} />
+      <Route path="/git-repository-search/" exact component={Dashboard} />
       <Route path="/repositories/:repository+" component={Repository} />
     </Switch>
   </BrowserRouter>
